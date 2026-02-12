@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/BP_Coin.uasset",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/Variant_Platforming/Blueprints/BP_PlatformingCharacter.uasset",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/PD/HOTOWIHDGW9CUNQLZNSRJH.uasset",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/9A/ZOUJK6OJIFTQZ1NWD5WGV7.uasset",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/RU/I91YI2TIXBRU137U56SR22.uasset",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/P5/J60LCB5GPNI8KZ882R2WJL.uasset",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/YH/8M7NRM1SMV72IQVYDXI51J.uasset",
+				"C:/Users/S25156239/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AT/4XJ3D2SHQMN5Q8AD3U0IK6.uasset"
+			]
+		}
+	]
+}
