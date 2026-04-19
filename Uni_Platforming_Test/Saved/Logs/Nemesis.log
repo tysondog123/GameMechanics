@@ -1188,3 +1188,17 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.19-20.58.06:343][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2026.04.19-20.58.06:358][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
 [2026.04.19-20.59.37:898][751]LogDerivedDataCache: C:/Users/taylo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-21.03.46:486][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 365.551086
+[2026.04.19-21.03.46:646][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-21.03.46:646][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 365.701111, Update Interval: 327.770630
+[2026.04.19-21.04.07:902][974]LogFab: Display: Add listing to project - db8c5bda-e867-412a-8e9a-f27c536d4ff8
+[2026.04.19-21.04.07:902][974]LogFab: Display: Listing type - gltf
+[2026.04.19-21.04.09:196][ 69]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-21.04.09:338][ 69]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.04.19-21.04.09:338][ 69]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/taylo/AppData/Local/Temp/FabLibrary/db8c5bda-e867-412a-8e9a-f27c536d4ff8/forest_floor_vktfeilaw_1k_ue_low_extracted/vktfeilaw_tier_3.gltf]
+[2026.04.19-21.04.09:451][ 71]LogStreaming: Display: FlushAsyncLoading(373): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-21.04.09:500][ 72]LogStreaming: Display: FlushAsyncLoading(376): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-21.04.09:582][ 74]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Forest_Floor_vktfeilaw/Low/vktfeilaw_tier_3/Textures/T_vktfeilaw_1K_ORM.T_vktfeilaw_1K_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.04.19-21.04.09:583][ 74]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Forest_Floor_vktfeilaw/Low/vktfeilaw_tier_3/Textures/T_vktfeilaw_1K_N.T_vktfeilaw_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 259.499988 MB), EncodeSpeed: Fast
+[2026.04.19-21.04.09:587][ 74]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Forest_Floor_vktfeilaw/Low/vktfeilaw_tier_3/Textures/T_vktfeilaw_1K_B.T_vktfeilaw_1K_B (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.04.19-21.04.09:700][ 75]LogInterchangeEngine: Display: Interchange import completed [C:/Users/taylo/AppDa..._1k_ue_low_extracted/vktfeilaw_tier_3.gltf]
