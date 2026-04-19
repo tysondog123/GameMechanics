@@ -1,6 +1,21 @@
-2026/04/19-19:36:04.503 1ff4 Reusing MANIFEST C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/19-19:36:04.504 1ff4 Recovering log #6
-2026/04/19-19:36:04.505 1ff4 Reusing old log C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/000006.log 
-2026/04/19-19:56:30.593 2638 Level-0 table #10: started
-2026/04/19-19:56:30.596 2638 Level-0 table #10: 62351 bytes OK
-2026/04/19-19:56:30.598 2638 Delete type=0 #6
+2026/04/19-20:30:09.719 5644 Reusing MANIFEST C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/19-20:30:09.720 5644 Recovering log #20
+2026/04/19-20:30:09.720 5644 Reusing old log C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/000020.log 
+2026/04/19-21:13:05.777 7434 Level-0 table #24: started
+2026/04/19-21:13:05.781 7434 Level-0 table #24: 81598 bytes OK
+2026/04/19-21:13:05.782 7434 Delete type=0 #20
+2026/04/19-21:13:33.911 1f8 Level-0 table #26: started
+2026/04/19-21:13:33.915 1f8 Level-0 table #26: 86867 bytes OK
+2026/04/19-21:13:33.916 1f8 Delete type=0 #23
+2026/04/19-21:13:33.916 1f8 Compacting 4@0 + 1@1 files
+2026/04/19-21:13:33.919 1f8 Generated table #27@0: 3 keys, 29900 bytes
+2026/04/19-21:13:33.919 1f8 Compacted 4@0 + 1@1 files => 29900 bytes
+2026/04/19-21:13:33.919 1f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/19-21:13:33.920 1f8 Delete type=2 #17
+2026/04/19-21:13:33.920 1f8 Delete type=2 #19
+2026/04/19-21:13:33.920 1f8 Delete type=2 #21
+2026/04/19-21:13:33.920 1f8 Delete type=2 #24
+2026/04/19-21:13:33.920 1f8 Delete type=2 #26
+2026/04/19-21:13:53.219 7434 Level-0 table #29: started
+2026/04/19-21:13:53.222 7434 Level-0 table #29: 92394 bytes OK
+2026/04/19-21:13:53.223 7434 Delete type=0 #25

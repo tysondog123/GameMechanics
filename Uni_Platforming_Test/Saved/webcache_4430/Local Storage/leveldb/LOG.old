@@ -1,9 +1,30 @@
-2026/04/19-18:34:21.141 ccc Reusing MANIFEST C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/19-18:34:21.143 ccc Recovering log #3
-2026/04/19-18:34:21.144 ccc Reusing old log C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2026/04/19-18:39:13.172 1aa4 Level-0 table #5: started
-2026/04/19-18:39:13.176 1aa4 Level-0 table #5: 67400 bytes OK
-2026/04/19-18:39:13.178 1aa4 Delete type=0 #3
-2026/04/19-18:57:56.522 4c18 Level-0 table #7: started
-2026/04/19-18:57:56.525 4c18 Level-0 table #7: 76322 bytes OK
-2026/04/19-18:57:56.526 4c18 Delete type=0 #4
+2026/04/19-19:36:04.503 1ff4 Reusing MANIFEST C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/19-19:36:04.504 1ff4 Recovering log #6
+2026/04/19-19:36:04.505 1ff4 Reusing old log C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/000006.log 
+2026/04/19-19:56:30.593 2638 Level-0 table #10: started
+2026/04/19-19:56:30.596 2638 Level-0 table #10: 62351 bytes OK
+2026/04/19-19:56:30.598 2638 Delete type=0 #6
+2026/04/19-20:06:21.565 669c Level-0 table #12: started
+2026/04/19-20:06:21.568 669c Level-0 table #12: 66886 bytes OK
+2026/04/19-20:06:21.570 669c Delete type=0 #9
+2026/04/19-20:07:16.881 2638 Level-0 table #14: started
+2026/04/19-20:07:16.885 2638 Level-0 table #14: 76214 bytes OK
+2026/04/19-20:07:16.888 2638 Delete type=0 #11
+2026/04/19-20:11:45.447 46b0 Level-0 table #16: started
+2026/04/19-20:11:45.450 46b0 Level-0 table #16: 64254 bytes OK
+2026/04/19-20:11:45.452 46b0 Delete type=0 #13
+2026/04/19-20:11:45.454 46b0 Compacting 4@0 + 1@1 files
+2026/04/19-20:11:45.459 46b0 Generated table #17@0: 3 keys, 21968 bytes
+2026/04/19-20:11:45.459 46b0 Compacted 4@0 + 1@1 files => 21968 bytes
+2026/04/19-20:11:45.460 46b0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/19-20:11:45.462 46b0 Delete type=2 #7
+2026/04/19-20:11:45.462 46b0 Delete type=2 #10
+2026/04/19-20:11:45.462 46b0 Delete type=2 #12
+2026/04/19-20:11:45.462 46b0 Delete type=2 #14
+2026/04/19-20:11:45.462 46b0 Delete type=2 #16
+2026/04/19-20:12:14.687 2638 Level-0 table #19: started
+2026/04/19-20:12:14.690 2638 Level-0 table #19: 71010 bytes OK
+2026/04/19-20:12:14.692 2638 Delete type=0 #15
+2026/04/19-20:12:36.667 46b0 Level-0 table #21: started
+2026/04/19-20:12:36.670 46b0 Level-0 table #21: 77602 bytes OK
+2026/04/19-20:12:36.672 46b0 Delete type=0 #18
