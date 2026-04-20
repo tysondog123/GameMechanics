@@ -1717,3 +1717,282 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.20-15.20.26:021][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.04.20-15.20.26:087][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2026.04.20-15.20.31:538][972]LogRenderer: Using fallback RTPSO
+[2026.04.20-15.22.20:144][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 336.515564
+[2026.04.20-15.22.20:286][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-15.22.20:286][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 336.648651, Update Interval: 326.421082
+[2026.04.20-15.22.51:856][783]LogShaderCompilers: Display: ================================================
+[2026.04.20-15.22.51:856][783]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.20-15.22.51:856][783]LogShaderCompilers: Display: Total job queries 647, among them cache hits 143 (22.10%), DDC hits 409 (63.21%), Duplicates 86 (13.29%)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Tracking 418 distinct input hashes that result in 249 distinct outputs (59.57%)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: RAM used: 2.28 MiB of 1.60 GiB budget. Usage: 0.14%
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Shaders Compiled: 9
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 1.25 s
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 1.34
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Shader code size: total 81.352 KiB, numShaders 11, average 7.396 KiB, min 2.934 KiB, max 13.387 KiB
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.34 s
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Average processing rate: 6.69 jobs/sec
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Total thread time: 4.648 s
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Total thread preprocess time: 14.698 s
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Percentage time preprocessing: 316.23%
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Effective parallelization: 3.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.345653
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.69% of total time (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                                  FVelocityPS - 13.44% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                                FAnisotropyPS - 12.97% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.03% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.04% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: === Material stats ===
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Materials Translated:    215
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Material Translation Only: 0.08 s (52%)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: Material Cache Hits: 58 (27%)
+[2026.04.20-15.22.51:857][783]LogShaderCompilers: Display: ================================================
+[2026.04.20-15.27.49:731][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 666.100098
+[2026.04.20-15.27.49:882][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-15.27.49:882][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 666.243286, Update Interval: 334.192322
+[2026.04.20-15.30.29:187][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.04.20-15.30.29:690][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Main_Auto1
+[2026.04.20-15.30.29:690][286]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Main_Auto173B4D9F049F9F3AFEDFAE18C8B66D75A.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Autosaves/Game/Levels/Main_Auto1.umap'
+[2026.04.20-15.30.29:692][286]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main' took 0.533
+[2026.04.20-15.30.29:692][286]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.533
+[2026.04.20-15.30.29:693][286]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/CheckPoint] ([2] browsable assets)...
+[2026.04.20-15.30.29:695][286]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.20-15.30.29:763][286]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/CheckPoint.CheckPoint]
+[2026.04.20-15.30.29:763][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/CheckPoint]
+[2026.04.20-15.30.29:774][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/CheckPoint_Auto1
+[2026.04.20-15.30.29:776][286]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/CheckPoint_Auto1FE2F0F8448CD81D18FC31FB4092C6200.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Autosaves/Game/BluePrints/CheckPoint_Auto1.uasset'
+[2026.04.20-15.30.29:777][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0] ([1] browsable assets)...
+[2026.04.20-15.30.29:780][286]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0.knight_statue_fbx_texture_0]
+[2026.04.20-15.30.29:780][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0]
+[2026.04.20-15.30.29:850][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0_Auto1
+[2026.04.20-15.30.29:850][286]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/knight_statue_fbx_texture_0_Auto70F85C5A4EFB8F2EE4434FB11156EC93.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Autosaves/Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0_Auto1.uasset'
+[2026.04.20-15.30.29:851][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01] ([1] browsable assets)...
+[2026.04.20-15.30.29:865][286]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01.Statue_01]
+[2026.04.20-15.30.29:865][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01]
+[2026.04.20-15.30.29:872][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01_Auto1
+[2026.04.20-15.30.29:872][286]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Statue_01_Auto1FEEABA114A2BFFEE61CFC6982F2FB534.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Autosaves/Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01_Auto1.uasset'
+[2026.04.20-15.30.29:873][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx] ([1] browsable assets)...
+[2026.04.20-15.30.29:880][286]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx.knight_statue_fbx]
+[2026.04.20-15.30.29:880][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx]
+[2026.04.20-15.30.29:890][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx_Auto1
+[2026.04.20-15.30.29:890][286]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/knight_statue_fbx_Auto1FE8708A84BAF890724BD8AB4D19210CB.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Autosaves/Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx_Auto1.uasset'
+[2026.04.20-15.30.29:891][286]LogFileHelpers: Auto-saving content packages took 0.199
+[2026.04.20-15.31.09:535][ 27]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.09:535][ 27]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.09:617][ 29]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.12:020][267]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.12:020][267]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.12:068][268]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.13:013][331]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.13:013][331]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.13:067][332]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.13:870][377]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.13:870][377]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.13:918][378]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.14:796][431]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.14:796][431]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.14:850][432]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.15:449][450]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.15:449][450]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.15:501][451]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.16:077][468]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.16:077][468]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.16:119][469]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.16:639][479]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.16:639][479]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.16:685][480]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.17:071][487]LogFab: Display: Add listing to project - b60f49d3-ead5-4e3d-9533-caa3e36ba521
+[2026.04.20-15.31.17:071][487]LogFab: Display: Listing type - glb
+[2026.04.20-15.31.17:169][488]LogFab: Error: Failed to download FAB Asset Hand Sculpture
+[2026.04.20-15.31.17:985][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.20-15.31.19:232][532]LogSlate: Window 'Save Content' being destroyed
+[2026.04.20-15.31.19:242][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-15.31.19:301][532]LogTexture: Display: Building textures: /Game/Levels/Main.Main:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.04.20-15.31.19:301][532]LogTexture: Display: Building textures: /Game/Levels/Main.Main:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.04.20-15.31.19:301][532]LogTexture: Display: Building textures: /Game/Levels/Main.Main:PersistentLevel.Landscape_0.Weightmap_43 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.04.20-15.31.19:301][532]LogTexture: Display: Building textures: /Game/Levels/Main.Main:PersistentLevel.Landscape_0.Weightmap_44 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.04.20-15.31.19:301][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.20-15.31.19:349][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.20-15.31.19:524][532]LogSavePackage: Moving output files for package: /Game/Levels/Main
+[2026.04.20-15.31.19:524][532]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Main9309CDAF42FB6DCD192AB395506D3500.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/Levels/Main.umap'
+[2026.04.20-15.31.19:535][532]LogFileHelpers: Saving map 'Main' took 0.234
+[2026.04.20-15.31.19:535][532]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/CheckPoint] ([2] browsable assets)...
+[2026.04.20-15.31.19:535][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/CheckPoint]
+[2026.04.20-15.31.19:535][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/CheckPoint" FILE="../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/BluePrints/CheckPoint.uasset" SILENT=true
+[2026.04.20-15.31.19:545][532]LogSavePackage: Moving output files for package: /Game/BluePrints/CheckPoint
+[2026.04.20-15.31.19:545][532]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/CheckPointF69836C84101BD6877CCD8AB4356CB44.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/BluePrints/CheckPoint.uasset'
+[2026.04.20-15.31.19:546][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01] ([1] browsable assets)...
+[2026.04.20-15.31.19:546][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01]
+[2026.04.20-15.31.19:552][532]LogSavePackage: Moving output files for package: /Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01
+[2026.04.20-15.31.19:552][532]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/Statue_0103E1D6D94104CFE3B1AEB69DBFD8B72B.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01.uasset'
+[2026.04.20-15.31.19:556][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx] ([1] browsable assets)...
+[2026.04.20-15.31.19:556][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx]
+[2026.04.20-15.31.19:566][532]LogSavePackage: Moving output files for package: /Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx
+[2026.04.20-15.31.19:566][532]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/knight_statue_fbx4E6213F54614CE0ED8B15F9A2F14F8F2.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx.uasset'
+[2026.04.20-15.31.19:567][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0] ([1] browsable assets)...
+[2026.04.20-15.31.19:567][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0]
+[2026.04.20-15.31.19:658][532]LogSavePackage: Moving output files for package: /Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0
+[2026.04.20-15.31.19:658][532]LogSavePackage: Moving '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/knight_statue_fbx_texture_05070B3354E4666C94BD8D7997B7CB731.tmp' to '../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Content/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0.uasset'
+[2026.04.20-15.31.19:671][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 428.737 ms
+[2026.04.20-15.31.19:714][532]LogStall: Shutdown...
+[2026.04.20-15.31.19:714][532]LogStall: Shutdown complete.
+[2026.04.20-15.31.19:760][532]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.19:761][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.19:801][532]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-15.31.19:801][532]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.19:801][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.19:845][532]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-15.31.19:845][532]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.19:847][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.19:887][532]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-15.31.19:887][532]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.19:887][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.19:933][532]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-15.31.19:933][532]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.19:933][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.19:987][532]LogSlate: Window 'Nemesis - Unreal Editor' being destroyed
+[2026.04.20-15.31.20:064][532]LogContentValidation: Display: Starting to validate 5 assets
+[2026.04.20-15.31.20:064][532]LogContentValidation: Enabled validators:
+[2026.04.20-15.31.20:064][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-15.31.20:064][532]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-15.31.20:064][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-15.31.20:064][532]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-15.31.20:064][532]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-15.31.20:064][532]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-15.31.20:064][532]AssetCheck: /Game/Levels/Main Validating asset
+[2026.04.20-15.31.20:065][532]AssetCheck: /Game/BluePrints/CheckPoint Validating asset
+[2026.04.20-15.31.20:065][532]AssetCheck: /Game/Fab/Knight_Statue/knight_statue_fbx/Materials/Statue_01 Validating asset
+[2026.04.20-15.31.20:065][532]AssetCheck: /Game/Fab/Knight_Statue/knight_statue_fbx/StaticMeshes/knight_statue_fbx Validating asset
+[2026.04.20-15.31.20:065][532]AssetCheck: /Game/Fab/Knight_Statue/knight_statue_fbx/Textures/knight_statue_fbx_texture_0 Validating asset
+[2026.04.20-15.31.20:212][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.04.20-15.31.20:226][532]Cmd: QUIT_EDITOR
+[2026.04.20-15.31.20:226][532]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.20-15.31.20:234][532]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-15.31.20:251][533]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.20-15.31.20:251][533]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.20-15.31.20:252][533]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.20-15.31.20:255][533]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.20:257][533]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.20-15.31.20:259][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.20:280][533]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.20-15.31.20:280][533]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.20-15.31.20:281][533]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.20-15.31.20:285][533]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.20:285][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.20:289][533]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.20:289][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.20:294][533]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.20:294][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.20:299][533]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.20:299][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.20:304][533]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.20:304][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.20:309][533]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.20:309][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.20:314][533]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-15.31.20:314][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-15.31.20:320][533]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.20-15.31.20:320][533]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.20-15.31.20:328][533]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.20-15.31.20:330][533]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.20-15.31.20:330][533]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.20-15.31.20:330][533]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2026.04.20-15.31.20:330][533]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.20-15.31.20:331][533]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.20-15.31.20:334][533]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.20-15.31.20:341][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.20-15.31.20:341][533]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.20-15.31.20:344][533]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.20-15.31.20:344][533]LogExit: Preparing to exit.
+[2026.04.20-15.31.20:444][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:446][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:447][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:447][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:447][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:447][533]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:447][533]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-15.31.20:952][533]LogEditorDataStorage: Deinitializing
+[2026.04.20-15.31.21:086][533]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.20-15.31.21:101][533]LogExit: Editor shut down
+[2026.04.20-15.31.21:108][533]LogExit: Transaction tracking system shut down
+[2026.04.20-15.31.21:371][533]LogExit: Object subsystem successfully closed.
+[2026.04.20-15.31.21:444][533]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.20-15.31.21:565][533]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.04.20-15.31.21:571][533]LogWindows: Error: appError called: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 321] 
+
+
+[2026.04.20-15.31.21:571][533]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2026.04.20-15.31.23:685][533]LogWindows: Error: === Critical error: ===
+[2026.04.20-15.31.23:685][533]LogWindows: Error: 
+[2026.04.20-15.31.23:685][533]LogWindows: Error: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 321] 
+[2026.04.20-15.31.23:685][533]LogWindows: Error: 
+[2026.04.20-15.31.23:685][533]LogWindows: Error: 
+[2026.04.20-15.31.23:685][533]LogWindows: Error: 
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffdb34c4028 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x000001fdf3e02b34 UnrealEditor-WebBrowser.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x000001fdf3e1a5f4 UnrealEditor-WebBrowser.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x000001fdf3e62984 UnrealEditor-WebBrowser.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffcfe54a6d3 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd025f23dc libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd018ecc15 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffcfeef9c71 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd00fc9b45 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd019edb7c libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd01b943b3 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd01b925c1 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd00e7756c libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd019483f4 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd019480dc libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd025e5f93 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd01948d4d libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd00e61a73 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd00e62408 libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffd00dd80dd libcef.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x000001fdf3e34425 UnrealEditor-WebBrowser.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x000001fdf3ddbb09 UnrealEditor-WebBrowser.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x000001fdf3de5a54 UnrealEditor-WebBrowser.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x000001fdf3db169a UnrealEditor-WebBrowser.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffdb364bb8e UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffdb364c21c UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ff7b1f4c42e UnrealEditor.exe!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ff7b1f4e655 UnrealEditor.exe!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ff7b1f4e6ba UnrealEditor.exe!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ff7b1f5209e UnrealEditor.exe!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ff7b1f64e44 UnrealEditor.exe!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ff7b1f680fa UnrealEditor.exe!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: [Callstack] 0x00007ffe3d48e8d7 KERNEL32.DLL!UnknownFunction []
+[2026.04.20-15.31.23:685][533]LogWindows: Error: 
+[2026.04.20-15.31.23:693][533]LogWindows: FPlatformMisc::RequestExit(1, LaunchWindowsStartup.ExceptionHandler)
+[2026.04.20-15.31.23:693][533]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, LaunchWindowsStartup.ExceptionHandler)
+[2026.04.20-15.31.23:693][533]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
