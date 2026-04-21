@@ -1,0 +1,6 @@
+Breadcrumbs 'Parallel'
+ - VirtualTextureUpdate
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 2
