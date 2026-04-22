@@ -1,20 +1,15 @@
-2026/04/20-16:32:29.401 1f00 Reusing MANIFEST C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/20-16:32:29.402 1f00 Recovering log #147
-2026/04/20-16:32:29.402 1f00 Level-0 table #149: started
-2026/04/20-16:32:29.406 1f00 Level-0 table #149: 78566 bytes OK
-2026/04/20-16:32:29.408 1f00 Delete type=0 #147
-2026/04/20-16:32:29.409 4c50 Compacting 4@0 + 1@1 files
-2026/04/20-16:32:29.412 4c50 Generated table #151@0: 3 keys, 39376 bytes
-2026/04/20-16:32:29.412 4c50 Compacted 4@0 + 1@1 files => 39376 bytes
-2026/04/20-16:32:29.413 4c50 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/04/20-16:32:29.414 4c50 Delete type=2 #140
-2026/04/20-16:32:29.414 4c50 Delete type=2 #142
-2026/04/20-16:32:29.415 4c50 Delete type=2 #144
-2026/04/20-16:32:29.415 4c50 Delete type=2 #146
-2026/04/20-16:32:29.415 4c50 Delete type=2 #149
-2026/04/20-16:35:45.675 6588 Level-0 table #153: started
-2026/04/20-16:35:45.677 6588 Level-0 table #153: 78534 bytes OK
-2026/04/20-16:35:45.679 6588 Delete type=0 #150
-2026/04/20-16:36:31.096 4c50 Level-0 table #155: started
-2026/04/20-16:36:31.100 4c50 Level-0 table #155: 78451 bytes OK
-2026/04/20-16:36:31.101 4c50 Delete type=0 #152
+2026/04/22-14:35:48.570 247c Reusing MANIFEST C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/22-14:35:48.571 247c Recovering log #197
+2026/04/22-14:35:48.572 247c Reusing old log C:/Users/taylo/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/000197.log 
+2026/04/22-14:36:52.435 247c Level-0 table #201: started
+2026/04/22-14:36:52.440 247c Level-0 table #201: 77754 bytes OK
+2026/04/22-14:36:52.452 247c Delete type=0 #197
+2026/04/22-14:36:52.455 247c Compacting 4@0 + 1@1 files
+2026/04/22-14:36:52.461 247c Generated table #202@0: 3 keys, 38884 bytes
+2026/04/22-14:36:52.461 247c Compacted 4@0 + 1@1 files => 38884 bytes
+2026/04/22-14:36:52.462 247c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/22-14:36:52.463 247c Delete type=2 #190
+2026/04/22-14:36:52.463 247c Delete type=2 #192
+2026/04/22-14:36:52.463 247c Delete type=2 #195
+2026/04/22-14:36:52.463 247c Delete type=2 #198
+2026/04/22-14:36:52.463 247c Delete type=2 #201
