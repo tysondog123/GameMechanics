@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\taylo\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\Nemesis.Build.cs",
-		"C:\\Users\\taylo\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\Nemesis.Target.cs",
-		"C:\\Users\\taylo\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\NemesisClient.Target.cs",
-		"C:\\Users\\taylo\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\NemesisEditor.Target.cs",
-		"C:\\Users\\taylo\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\NemesisServer.Target.cs"
+		"C:\\Users\\S25156239\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\Nemesis.Build.cs",
+		"C:\\Users\\S25156239\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\Nemesis.Target.cs",
+		"C:\\Users\\S25156239\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\NemesisClient.Target.cs",
+		"C:\\Users\\S25156239\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\NemesisEditor.Target.cs",
+		"C:\\Users\\S25156239\\Documents\\GitHub\\GameMechanics\\Uni_Platforming_Test\\Intermediate\\Source\\NemesisServer.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }

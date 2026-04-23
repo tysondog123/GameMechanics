@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\s25156239\\documents\\github\\gamemechanics\\uni_platforming_test\\intermediate\\build\\win64\\x64\\unrealgame\\development\\nemesis\\module.nemesis.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\s25156239\\documents\\github\\gamemechanics\\uni_platforming_test\\intermediate\\build\\win64\\x64\\nemesis\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\s25156239\\documents\\github\\gamemechanics\\uni_platforming_test\\intermediate\\build\\win64\\x64\\unrealgame\\development\\nemesis\\definitions.nemesis.h",
+            "c:\\users\\s25156239\\documents\\github\\gamemechanics\\uni_platforming_test\\intermediate\\source\\nemesis.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

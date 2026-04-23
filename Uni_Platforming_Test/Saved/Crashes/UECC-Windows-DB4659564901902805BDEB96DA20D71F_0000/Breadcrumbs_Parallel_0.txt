@@ -1,7 +1,0 @@
-Breadcrumbs 'Parallel'
- - Nanite::EmitDepthTargets
- - NaniteBasePass
- - Scene
- - RenderGraphExecute - /ViewFamilies
- - SceneRender - ViewFamilies
- - Frame 2

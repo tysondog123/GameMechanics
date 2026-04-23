@@ -1,5 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.Nemesis.cpp.obj": [
+			"Nemesis.cpp.obj"
+		]
 	}
 }
