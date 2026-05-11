@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\taylo\\onedrive\\documents\\github\\gamemechanics\\uni_platforming_test\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\nemesis\\module.nemesis.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\taylo\\onedrive\\documents\\github\\gamemechanics\\uni_platforming_test\\intermediate\\build\\win64\\x64\\nemesis\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\taylo\\onedrive\\documents\\github\\gamemechanics\\uni_platforming_test\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\nemesis\\definitions.nemesis.h",
+            "c:\\users\\taylo\\onedrive\\documents\\github\\gamemechanics\\uni_platforming_test\\intermediate\\source\\nemesis.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
