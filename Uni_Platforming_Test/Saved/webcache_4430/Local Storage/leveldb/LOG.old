@@ -1,3 +1,13 @@
-2026/05/13-15:11:41.108 4560 Reusing MANIFEST C:/Users/taylo/OneDrive/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/05/13-15:11:41.108 4560 Recovering log #9
-2026/05/13-15:11:41.109 4560 Reusing old log C:/Users/taylo/OneDrive/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/000009.log 
+2026/05/13-17:24:21.697 9b8 Reusing MANIFEST C:/Users/taylo/OneDrive/Documents/GitHub/GameMechanics/Uni_Platforming_Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/13-17:24:21.698 9b8 Recovering log #9
+2026/05/13-17:24:21.698 9b8 Level-0 table #12: started
+2026/05/13-17:24:21.701 9b8 Level-0 table #12: 70029 bytes OK
+2026/05/13-17:24:21.703 9b8 Delete type=0 #9
+2026/05/13-17:24:21.704 6d30 Compacting 4@0 + 0@1 files
+2026/05/13-17:24:21.706 6d30 Generated table #14@0: 4 keys, 12269 bytes
+2026/05/13-17:24:21.707 6d30 Compacted 4@0 + 0@1 files => 12269 bytes
+2026/05/13-17:24:21.708 6d30 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/13-17:24:21.709 6d30 Delete type=2 #3
+2026/05/13-17:24:21.709 6d30 Delete type=2 #6
+2026/05/13-17:24:21.709 6d30 Delete type=2 #10
+2026/05/13-17:24:21.709 6d30 Delete type=2 #12
